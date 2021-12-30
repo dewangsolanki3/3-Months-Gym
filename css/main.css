@@ -136,10 +136,10 @@ a:hover{
 
 h1 {
     padding: 0.6em 0.7em;
-    background-image: url("/img/textback.jpg");
+    background-image: url("../img/textback.jpg");
     background-attachment: fixed;
     position: absolute;
-    font-size: 210px;
+    font-size: 160px;
     font-weight: 900;
     text-transform: uppercase;
     line-height:1;
@@ -721,7 +721,7 @@ ul{
 
 
 .home-hero {
-	background-image: url('/img/ring.jpg');
+	background-image: url('../img/ring.jpg');
 	background-size: cover;
   background-position: center;
   background-attachment: fixed;
